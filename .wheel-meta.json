@@ -1,0 +1,22 @@
+{
+  "wheel_id": 717,
+  "structure": "umbrella",
+  "slug": "toptreeremovalcanberra-104",
+  "project": "tree-removal-canberra-pros-and-cons-8dd1a4ab9418b0b570c101ffec8",
+  "parent_t1_ref": "toptreeremovalcanberra-151",
+  "node_role": "feeder",
+  "money_target": "toptreeremovalcanberra.com.au",
+  "primary_kw": "tree removal canberra pros and cons",
+  "intended_url": "https://sitesau.github.io/toptreeremovalcanberra-104/",
+  "tier": "T2",
+  "writeback_nonce": "e4200d46b4ec60d7",
+  "links": [
+    {
+      "target_url": "http://tree-removal-canberra-common-mistakes-98a46ebb78abf666452e4240f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "tree removal canberra common mistakes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
